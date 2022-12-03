@@ -1,0 +1,35 @@
+body{
+    background: url("pexels-victor-freitas-841130.jpg" );
+    background-repeat: no-repeat ;
+    font-family: 'Dancing Script', cursive;
+    background-size: cover;
+background-size: fixed;
+}
+div{
+    background-color:yellow;
+    width: 600px;;
+    text-align: center;
+    margin: auto;
+    margin-top: 300px;
+    border-radius: 29px;
+    opacity: 0.8;
+
+}
+button{
+    background-color:rgba(50, 50green, 50blue, alpha);
+    font-size: 30px;
+    border-radius:19PX ;
+}
+h1{
+    font-size: 50px;
+}
+    
+p{
+    font: size 20px;;
+    
+}
+i{
+    font-size: 30px;
+    color: cornsilk;
+}
+
